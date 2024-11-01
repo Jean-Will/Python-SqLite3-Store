@@ -1,0 +1,28 @@
+
+( pontos de desejos dos usuarios , produtos com nome , preco e estoque 
+,tipo de produto , usuario e login , registrar as vendas(pegar data time para pegar a hora e o dia d venda) e o 
+que foi vendido , tipo de pagamento , numerario , mbway , cartao )
+
+1 - FINALIZADO -- criando function para ter um login de usuario com apenas Nome e senha 
+2 - FINALIZADO  -- rever a base de dados para ver as tabelas que faltam para suprir o projeto
+3 - FINALIZADO -- criar tabela de usuario e sua ligacao na base de dados -- 
+
+4 - FINALIZADO -- ajustar comando para fazer o usuario inserir primeiro o tipo de categoria >>
+4-  FINALIZADO -- que ele deseja inserir o novo produto ( Categoria LIVRARIA: {livros biblias etc}, {ROUPAS : T-shirts , sweat} ,
+4-  FINALIZADO -- {ACESSORIOS  : Colar , pulsera , cahveiro , garrafas , kitCasaDePaz  etc} )
+6 - FINALIZADO --- Nao esta inserindo os produtos diz que nao acha o id para inserir ---
+
+
+5 - ao printar a categoria (NO) mostrar produtos ele mostra categoria 1 e nao livraria / (ao cadastrar um novo produto no campo categoia ele fica como NULL)
+7 - Erro ao deletar produto com mais de um nome exemplo (T-shirt Celula , Rumo aos 120 anos )
+8 - as categorias nao estao ficando separados de maneira correta ( nao esta sendo agrupadas ou ordenadas )
+9 - o Programa deve fazer um relatorio do que foi vendido no dia ao finalizar e salvar um doc 
+10 - criar um sistema de saida (ex: um cliente compra mais de uma coisa de diferentes categoria ao finalizar as escolhas deve ser 
+    feito a subtracao do banco de dados do Estoque de cada produto)
+
+11 - Criar uma interface Grafica usando tkinter ou outra semelhante
+12 - o sistema tem que ser um executavel para ser enviado para outro pc     
+
+
+
+

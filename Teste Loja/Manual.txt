@@ -1,0 +1,9 @@
+1- Criacao de login : Apenas precisa de nome e senha do usuario 
+
+Antes de cadastrar um produto e necesserario adicionar a categoria que deseja incluir esse produto , temos as 
+Seguintes CATEGORIAS :  {LIVRARIA: livros , biblias etc},
+                         {ROUPAS : T-shirts , sweat} ,
+                        {ACESSORIOS  : Colar , pulseIraS , cahveiro , garrafas , kitCasaDePaz  etc} 
+            ## ATENCAO ao inserir um produto na categoria correta 
+
+            
